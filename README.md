@@ -6,7 +6,7 @@ This repository contains MySQL queries for:
 - Interview preparation
 
 ## Folder Structure
-- Basics/ → Core SQL concepts
+- Basics/ → Core SQL concepts (SELECT, WHERE , JOIN etc)
 - LeetCode_SQL/ → LeetCode problems (numbered)
 
 ## Database
